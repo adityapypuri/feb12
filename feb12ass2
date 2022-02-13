@@ -1,0 +1,19 @@
+a=int(input('enter value'))
+b=int(input('emter value'))
+if a==b:
+   print('equal')
+else:
+   print('Not equal')
+if a>b:
+   print('a=',a,'is big')
+else:
+   print('b=',b,'is big')
+   
+   
+   
+   
+output:
+enter value 23
+emter value45
+Not equal
+b= 45 is big
